@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  background-color: #9bff85
+
+}
+.inputtodo{
+  background-color: #b8cff2;
+  color: black;
+  width: 300px;
+  height: 30px;
+  margin: 20px;
+
+}
+.name h1{
+  color: #46618a;
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+.add{
+  height: 30px;
+  background-color: #e8ed80;
+  color: black;
+  margin: 5px;
+  border-radius: 5px;
+
+}
+.del{
+  height: 30px;
+  background-color: #f03f2b;
+  color: black;
+  margin: 5px;
+  border-radius: 5px;
+
+}
+.btn{
+  margin: 10px;
+  background-color: #49d3e6;
+  height: 30px;
+  border-radius: 5px;
+}
